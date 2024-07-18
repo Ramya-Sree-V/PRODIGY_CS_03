@@ -18,8 +18,4 @@ This Python script provides a graphical user interface (GUI) to check the streng
 - tkinter library (usually included in standard Python distributions)
 - Operating System: Windows, macOS, Linux
 
-## How to Use
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/RSreeV123/PRODIGY-CS-03.git
